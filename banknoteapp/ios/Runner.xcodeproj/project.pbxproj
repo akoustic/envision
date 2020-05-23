@@ -144,7 +144,11 @@
 			name = Runner;
 			productName = Runner;
 			productReference = 97C146EE1CF9000F007C117D /* Runner.app */;
-			productType = "com.apple.product-type.application";
+			productType = "
+			
+			
+			
+			apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
@@ -323,7 +327,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dubey.cricketshotclassifier;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.banknoteapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -448,7 +452,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dubey.cricketshotclassifier;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.banknoteapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -471,7 +475,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dubey.cricketshotclassifier;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.banknoteapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
