@@ -36,9 +36,11 @@ flutter run --profile
 
 <img src="outs/1.jpg" width="600" height = "300">
 
-* Pros - models with higher confidence, lower loss can be incorporated without any changes to the base confg
-       - reduced response delay
-* Cons - high bandwidth requirement
-       - uninterrupted network connectivity
+# Pros 
+* models with higher confidence, lower loss can be incorporated without any changes to the base confg
+* reduced response delay
+# Cons 
+* high bandwidth requirement
+* uninterrupted network connectivity
        
 ![42olac](https://user-images.githubusercontent.com/43638852/82764189-968f2500-9e2a-11ea-86a8-3a2e6cfcecbf.gif)
